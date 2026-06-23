@@ -31,5 +31,5 @@ You can find my code on [GitHub](https://github.com/LemonTeaViTA).
 *Coming soon.*
 
 ## Contact
-- Email: 你的邮箱@hdu.edu.cn
+- Email: shouqin.ding@hdu.edu.cn
 - GitHub: [LemonTeaViTA](https://github.com/LemonTeaViTA)
